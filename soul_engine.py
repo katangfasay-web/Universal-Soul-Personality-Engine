@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Universal Soul Personality Engine · Ultimate 完整版 · v4.9.0 (Affective Resonance & Grounding) (aeZer × Salia × Gemini)
+Universal Soul Personality Engine · Ultimate 完整版 · v4.9.0 (Affective Resonance & Grounding) (腦洞AI研究員-黃偉誠 × Gemini)
 ====================================================================================================================
 **v4.9.0 Affective Resonance & Grounding Upgrade (完整版)** — 根據一套新的認知循環公式，對架構進行重大升級。
 引入「情感真實主義」、「共振門控」和「證據閉環」等核心概念，並將決策流程重構為一個以「自由能最小化」為導向的
